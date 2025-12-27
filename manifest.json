@@ -1,7 +1,7 @@
 {
   "name": "我的煙火",
   "short_name": "煙火",
-  "start_url": "index.html",
+  "start_url": "",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#ff6600",
